@@ -1,11 +1,10 @@
 * fast-csv
 
-A fast, RFC 4180 compliant CSV parser/writer for Common Lisp.
+Fast, RFC 4180 compliant CSV parser/writer for Common Lisp
 
-
-|---------+-------------------------------------------|
-| source  | git:https://git.sr.ht/~hajovonta/fast-csv |
-| commit  | 370e3b2 |
-| systems | fast-csv |
-|---------+-------------------------------------------|
+|---------+------------------------------------------------|
+| source  | git:https://git.sr.ht/~hajovonta/fast-csv     |
+| commit  | 370e3b2                                        |
+| systems | fast-csv                                       |
+|---------+------------------------------------------------|
 
